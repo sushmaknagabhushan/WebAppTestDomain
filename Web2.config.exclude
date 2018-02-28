@@ -1,0 +1,30 @@
+﻿<publishData>
+  <publishProfile profileName="AppDemoTest - Web Deploy" 
+                  publishMethod="MSDeploy" 
+                  publishUrl="appdemotest.scm.azurewebsites.net:443" 
+                  msdeploySite="AppDemoTest" 
+                  userName="$AppDemoTest" 
+                  userPWD="MfSxllJnRXnqdfA6bkqCYD8gShcf9JXqk08uvw44XhGu0ADxwCcYAjnEBmCL" 
+                  destinationAppUrl="http://appdemotest.azurewebsites.net" 
+                  SQLServerDBConnectionString="" 
+                  mySQLDBConnectionString="" 
+                  hostingProviderForumLink="" 
+                  controlPanelLink="http://windows.azure.com" 
+                  webSystem="WebSites">
+    <databases />
+  </publishProfile>
+  <publishProfile profileName="AppDemoTest - FTP" 
+                  publishMethod="FTP" 
+                  publishUrl="ftp://waws-prod-dm1-049.ftp.azurewebsites.windows.net/site/wwwroot" 
+                  ftpPassiveMode="True" 
+                  userName="AppDemoTest\$AppDemoTest" 
+                  userPWD="MfSxllJnRXnqdfA6bkqCYD8gShcf9JXqk08uvw44XhGu0ADxwCcYAjnEBmCL" 
+                  destinationAppUrl="http://appdemotest.azurewebsites.net" 
+                  SQLServerDBConnectionString="" 
+                  mySQLDBConnectionString="" 
+                  hostingProviderForumLink="" 
+                  controlPanelLink="http://windows.azure.com" 
+                  webSystem="WebSites">
+    <databases />
+  </publishProfile>
+</publishData>
